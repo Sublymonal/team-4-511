@@ -23,7 +23,7 @@ Additional experiments evaluated stronger augmentation, hybrid CNN-engineered fe
 
 ## Repository Contents
 
-- `aai_511_team_4.ipynb` – complete project pipeline
+- `aai_511_team_4_final.ipynb` – complete project pipeline
 - `Final Project Notebook Team 4.html` – rendered notebook with code and saved outputs
 - `Final Project Report Team 4.pdf` – final technical report
 - `datasets/` – project dataset-related files or supporting materials
